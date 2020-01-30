@@ -7,14 +7,14 @@
 		- DAL needs a reference to BOL 
 2.	Create BOL with Entity Framework - Done
 3.	Add Connection string in UI - Done
-4.	Create Areas in MVC - In Progress
+4.	Create Areas in MVC - In Progress -Done
 	a.	Common
 	b.	User
 	c.	Admin
 	d.	Security
-5.	Create All Controllers in Respective Areas
-6.	Add Default index views 
-7.	Add Bootstrap 
+5.	Create All Controllers in Respective Areas - Done
+6.	Add Default index views - Done
+7.	Add Bootstrap - In Progress
 8.	Create BrowseUrl View 
 9.	Create Common Layout 
 10. Create DAL 
